@@ -142,6 +142,29 @@ if (strcmp($_POST["password"], "-vf^sojvpot") == 0){
                         <!-- /Margin Collum-->
                     </div>
                     <!-- /SECTION ITEM -->
+                                        <!-- SECTION ITEM -->
+                                        <div class="line row">
+                        <!-- Margin Collums (necessary for the timeline effect) -->
+                        <div class="col-md-1 bg1 timeline-space full-height hidden-sm hidden-xs" style="height: 82px;"></div>
+                        <div class="col-md-2 timeline-progress hidden-sm hidden-xs full-height timeline-point " style="height: 82px;"></div>
+                        <!-- /Margin Collums -->
+                        <!-- Item Content -->
+                        <div class="col-md-8 content-wrap bg1">
+                            <div class="line-content">
+                                <!-- Subtitle -->
+                                <h3 class="section-item-title-1">Weight/Height</h3>
+                                <!-- /Subtitle -->
+                                <!-- content -->
+                                <p>113kg / 183cm</p>
+                                <!-- /Content -->
+                            </div>
+                        </div>
+                        <!-- /Item Content -->
+                        <!-- Margin Collum -->
+                        <div class="col-md-1 bg1 timeline-space full-height hidden-sm hidden-xs" style="height: 82px;"></div>
+                        <!-- /Margin Collums -->
+                    </div>
+                    <!-- /SECTION ITEM -->
                     <!-- SECTION ITEM -->
                     <div class="line row">
                         <!-- Margin Collums (necessary for the timeline effect) -->
@@ -165,29 +188,7 @@ if (strcmp($_POST["password"], "-vf^sojvpot") == 0){
                         <!-- /Margin Collums -->
                     </div>
                     <!-- /SECTION ITEM -->
-                    <!-- SECTION ITEM -->
-                    <div class="line row">
-                        <!-- Margin Collums (necessary for the timeline effect) -->
-                        <div class="col-md-1 bg1 timeline-space full-height hidden-sm hidden-xs" style="height: 82px;"></div>
-                        <div class="col-md-2 timeline-progress hidden-sm hidden-xs full-height timeline-point " style="height: 82px;"></div>
-                        <!-- /Margin Collums -->
-                        <!-- Item Content -->
-                        <div class="col-md-8 content-wrap bg1">
-                            <div class="line-content">
-                                <!-- Subtitle -->
-                                <h3 class="section-item-title-1">Weight/Height</h3>
-                                <!-- /Subtitle -->
-                                <!-- content -->
-                                <p>113kg / 183cm</p>
-                                <!-- /Content -->
-                            </div>
-                        </div>
-                        <!-- /Item Content -->
-                        <!-- Margin Collum -->
-                        <div class="col-md-1 bg1 timeline-space full-height hidden-sm hidden-xs" style="height: 82px;"></div>
-                        <!-- /Margin Collums -->
-                    </div>
-                    <!-- /SECTION ITEM -->
+
                     <!-- SECTION ITEM -->
                     <div class="line row">
                         <!-- Margin Collums (necessary for the timeline effect) -->
@@ -1447,4 +1448,9 @@ if (strcmp($_POST["password"], "-vf^sojvpot") == 0){
     </div>
 </div>
 <script src="js/main.js"></script>
-<?php } ?>
+<?php } else {?>
+
+<script>
+     location.reload();
+</script>
+<?php }?>
