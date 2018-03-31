@@ -335,6 +335,7 @@ if (strcmp($_POST["password"], "-vf^sojvpot") == 0){
                                     </p>
                                     <small>Channel SDKs and APIs <a href="https://getchannel.co/" target="_blank">https://getchannel.co/</a></small>
                                     <span class="label label-sm label-info ">Golang</span>
+                                    <span class="label label-sm label-info ">Vue.js</span>
                                     <span class="label label-sm label-info ">Postgres</span>
                                     <span class="label label-sm label-info ">Android (java)</span>
                                 </blockquote>
