@@ -246,9 +246,6 @@ if (strcmp($_POST["password"], "-vf^sojvpot") == 0){
                                     G.P.A. <b>2.97</b><br />
 
                                 </div>
-
-
-
                                 <!-- /Content -->
                             </div>
                         </div>
