@@ -155,7 +155,30 @@ if (strcmp($_POST["password"], "-vf^sojvpot") == 0){
                                 <h3 class="section-item-title-1">Email</h3>
                                 <!-- /Subtitle -->
                                 <!-- content -->
-                                <p>rataphon@icloud.com</p>
+                                <p>ch.rataphon@hotmail.com</p>
+                                <!-- /Content -->
+                            </div>
+                        </div>
+                        <!-- /Item Content -->
+                        <!-- Margin Collum -->
+                        <div class="col-md-1 bg1 timeline-space full-height hidden-sm hidden-xs" style="height: 82px;"></div>
+                        <!-- /Margin Collums -->
+                    </div>
+                    <!-- /SECTION ITEM -->
+                    <!-- SECTION ITEM -->
+                    <div class="line row">
+                        <!-- Margin Collums (necessary for the timeline effect) -->
+                        <div class="col-md-1 bg1 timeline-space full-height hidden-sm hidden-xs" style="height: 82px;"></div>
+                        <div class="col-md-2 timeline-progress hidden-sm hidden-xs full-height timeline-point " style="height: 82px;"></div>
+                        <!-- /Margin Collums -->
+                        <!-- Item Content -->
+                        <div class="col-md-8 content-wrap bg1">
+                            <div class="line-content">
+                                <!-- Subtitle -->
+                                <h3 class="section-item-title-1">Weight/Height</h3>
+                                <!-- /Subtitle -->
+                                <!-- content -->
+                                <p>113kg / 183cm</p>
                                 <!-- /Content -->
                             </div>
                         </div>
@@ -349,7 +372,7 @@ if (strcmp($_POST["password"], "-vf^sojvpot") == 0){
 
                                    <blockquote class="hero">
                                     <p>
-                                        In-house (2015-Currently)
+                                        In-house (2015-2017)
                                     </p>
                                     <small><img height="20" src="http://a2.mzstatic.com/us/r30/Purple6/v4/0b/c3/83/0bc3837a-351f-0f55-dedf-a337a77d0e54/icon175x175.jpeg"></img> <a href="https://itunes.apple.com/th/app/id1044527770?mt=8" target="_blank">Fanclub Phone (iOS)</a></small>
 
