@@ -440,7 +440,7 @@ if (strcmp($_POST["password"], "-vf^sojvpot") == 0){
                                 <h3 class="section-item-title-1">Thai Post</h3>
                                 <!-- /work place -->
                                 <!-- Graduation time -->
-                                <h4 class="job"><i class="fa fa-map-marker"></i>&nbsp;VB.NET Developer - <span class="job-date">- DEC 2015</span></h4>
+                                <h4 class="job"><i class="fa fa-map-marker"></i>&nbsp;VB.NET Developer - <span class="job-date">- Dec 2015</span></h4>
                                 <!-- /Graduation time -->
                                 <!-- content -->
 
@@ -482,7 +482,7 @@ if (strcmp($_POST["password"], "-vf^sojvpot") == 0){
                                 <h3 class="section-item-title-1">Logiciel,Inc. (http://logiciel.com/)</h3>
                                 <!-- /work place -->
                                 <!-- Graduation time -->
-                                <h4 class="job"><i class="fa fa-map-marker"></i>&nbsp;iOS,Android and .NET Developer - <span class="job-date">May 2013 - Currently</span></h4>
+                                <h4 class="job"><i class="fa fa-map-marker"></i>&nbsp;iOS,Android and .NET Developer - <span class="job-date">May 2013</span></h4>
                                 <!-- /Graduation time -->
                                 <!-- content -->
 
@@ -1046,6 +1046,17 @@ if (strcmp($_POST["password"], "-vf^sojvpot") == 0){
                                         </div>
                                     </li>
                                     <!-- /item list -->
+                                            <!-- item-list -->
+                                            <li>
+                                        <div class="progress">
+                                            <div class="progress-bar" data-percent="90%" role="progressbar" style="width: 90%;">
+                                                <span class="sr-only">90% Complete</span>
+                                            </div>
+                                            <span class="progress-type">Golang</span>
+                                            <span class="progress-completed">90%</span>
+                                        </div>
+                                    </li>
+                                    <!-- /item list -->
                                 </ul>
                                 <!-- /Content -->
                             </div>
@@ -1105,6 +1116,15 @@ if (strcmp($_POST["password"], "-vf^sojvpot") == 0){
                                             </div>
                                             <span class="progress-type">Mongo Database</span>
                                             <span class="progress-completed">70%</span>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="progress">
+                                            <div class="progress-bar progress-bar-2" data-percent="85%" role="progressbar" style="width: 85%;">
+                                                <span class="sr-only">85% Complete</span>
+                                            </div>
+                                            <span class="progress-type">Postgres</span>
+                                            <span class="progress-completed">85%</span>
                                         </div>
                                     </li>
 
