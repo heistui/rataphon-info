@@ -305,15 +305,6 @@ if (strcmp($_POST["password"], "-vf^sojvpot") == 0){
                                 <h4 class="job"><i class="fa fa-map-marker"></i>&nbsp;Software Engineer - <span class="job-date">Jan 2017 - Dec 2017</span></h4>
                                 <!-- /Graduation time -->
                                 <!-- content -->
-
-                                   <blockquote class="hero">
-                                    <p>
-                                         Out source - https://www.socialprintstudio.com/
-                                    </p>
-                                    <small><img height="20" src="http://is1.mzstatic.com/image/thumb/Purple128/v4/8f/cb/9c/8fcb9c5d-bbc3-eb84-6f41-e14f618a9a04/source/100x100bb.jpg"></img> <a href="https://itunes.apple.com/us/app/greetings-easy-holiday-cards/id1159312104?mt=8" target="_blank">Greetings - Easy Holiday Cards (iOS)</a></small>
-                                    <span class="label label-sm label-info ">Objective-C</span>
-                                </blockquote>
-
                                 <blockquote class="hero">
                                     <p>
                                         In-house
@@ -322,6 +313,13 @@ if (strcmp($_POST["password"], "-vf^sojvpot") == 0){
                                     <span class="label label-sm label-info ">Golang</span>
                                     <span class="label label-sm label-info ">Postgres</span>
                                     <span class="label label-sm label-info ">Android (java)</span>
+                                </blockquote>
+                                <blockquote class="hero">
+                                    <p>
+                                         Out source - https://www.socialprintstudio.com/
+                                    </p>
+                                    <small><img height="20" src="http://is1.mzstatic.com/image/thumb/Purple128/v4/8f/cb/9c/8fcb9c5d-bbc3-eb84-6f41-e14f618a9a04/source/100x100bb.jpg"></img> <a href="https://itunes.apple.com/us/app/greetings-easy-holiday-cards/id1159312104?mt=8" target="_blank">Greetings - Easy Holiday Cards (iOS)</a></small>
+                                    <span class="label label-sm label-info ">Swift</span>
                                 </blockquote>
                             </div>
                         </div>
