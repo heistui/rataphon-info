@@ -302,10 +302,64 @@ if (strcmp($_POST["password"], "-vf^sojvpot") == 0){
                         <div class="col-md-8 content-wrap bg1">
                             <div class="line-content line-content-education">
                                 <!-- Work Place -->
-                                <h3 class="section-item-title-1">Bunny Venture Co., Ltd.(http://www.playboy.co.th/)</h3>
+                                <h3 class="section-item-title-1">Mogohichi (https://www.mogohichi.com/)</h3>
                                 <!-- /work place -->
                                 <!-- Graduation time -->
-                                <h4 class="job"><i class="fa fa-map-marker"></i>&nbsp;Software Engineer - <span class="job-date">Aug 2013 - Currently</span></h4>
+                                <h4 class="job"><i class="fa fa-map-marker"></i>&nbsp;Software Engineer - <span class="job-date">Jan 2017 - Dec 2017</span></h4>
+                                <!-- /Graduation time -->
+                                <!-- content -->
+
+                                   <blockquote class="hero">
+                                    <p>
+                                         Out source - https://www.socialprintstudio.com/
+                                    </p>
+                                    <small><img height="20" src="http://is1.mzstatic.com/image/thumb/Purple128/v4/8f/cb/9c/8fcb9c5d-bbc3-eb84-6f41-e14f618a9a04/source/100x100bb.jpg"></img> <a href="https://itunes.apple.com/us/app/greetings-easy-holiday-cards/id1159312104?mt=8" target="_blank">Greetings - Easy Holiday Cards (iOS)</a></small>
+                                    <span class="label label-sm label-info ">Objective-C</span>
+                                </blockquote>
+
+                                <blockquote class="hero">
+                                    <p>
+                                        In-house
+                                    </p>
+                                    <small>https://getchannel.co/</small>
+                                    <span class="label label-sm label-info ">Golang</span>
+                                    <span class="label label-sm label-info ">Postgres</span>
+                                    <span class="label label-sm label-info ">Android(java)</span>
+                                </blockquote>
+                                <blockquote class="hero">
+                                    <p>
+                                        Out source - Krungthai Card Public Company Limited (KTC)
+                                    </p>
+                                    <small>KTC Export E-statement data migration</small>
+                                    <span class="label label-sm label-info ">ASP.NET</span>
+                                    <span class="label label-sm label-info ">C#</span>
+                                    <span class="label label-sm label-info ">Window Application</span>
+                                    <span class="label label-sm label-info ">Oracle</span>
+                                </blockquote>
+
+                            </div>
+                        </div>
+
+                        <!-- /Item Content -->
+                        <!-- Margin Collum-->
+                        <div class="col-md-1 bg1 timeline-space full-height hidden-sm hidden-xs" style="height: 164px;"></div>
+                        <!-- /Margin Collum-->
+                    </div>
+                    <!-- /SECTION ITEM -->
+                    <!-- SECTION ITEM -->
+                    <div class="line row">
+                        <!-- Margin Collums (necessary for the timeline effect) -->
+                        <div class="col-md-1 bg1 timeline-space full-height hidden-sm hidden-xs" style="height: 164px;"></div>
+                        <div class="col-md-2 timeline-progress hidden-sm hidden-xs full-height timeline-work " style="height: 164px;"></div>
+                        <!-- /Margin Collums -->
+                        <!-- Item Content -->
+                        <div class="col-md-8 content-wrap bg1">
+                            <div class="line-content line-content-education">
+                                <!-- Work Place -->
+                                <h3 class="section-item-title-1">Bunny Venture Co., Ltd.(https://www.playboy.co.th/)</h3>
+                                <!-- /work place -->
+                                <!-- Graduation time -->
+                                <h4 class="job"><i class="fa fa-map-marker"></i>&nbsp;Software Engineer - <span class="job-date">Aug 2013 - Dec 2016</span></h4>
                                 <!-- /Graduation time -->
                                 <!-- content -->
 
