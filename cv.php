@@ -321,22 +321,11 @@ if (strcmp($_POST["password"], "-vf^sojvpot") == 0){
                                     <p>
                                         In-house
                                     </p>
-                                    <small>https://getchannel.co/</small>
+                                    <small>Channel SDKs and APIs <a href="https://getchannel.co/" target="_blank">https://getchannel.co/</a></small>
                                     <span class="label label-sm label-info ">Golang</span>
                                     <span class="label label-sm label-info ">Postgres</span>
-                                    <span class="label label-sm label-info ">Android(java)</span>
+                                    <span class="label label-sm label-info ">Android (java)</span>
                                 </blockquote>
-                                <blockquote class="hero">
-                                    <p>
-                                        Out source - Krungthai Card Public Company Limited (KTC)
-                                    </p>
-                                    <small>KTC Export E-statement data migration</small>
-                                    <span class="label label-sm label-info ">ASP.NET</span>
-                                    <span class="label label-sm label-info ">C#</span>
-                                    <span class="label label-sm label-info ">Window Application</span>
-                                    <span class="label label-sm label-info ">Oracle</span>
-                                </blockquote>
-
                             </div>
                         </div>
 
