@@ -254,11 +254,11 @@ p {
   position: relative;
 }
 .tp-loader.spinner {
-  width: 30px;
-  height: 30px;
+  width: 100px;
+  height: 100px;
   margin: 0 auto;
   margin-bottom: 10px;
-  background-color: #fff;
+  background : url("https://graph.facebook.com/1143229079037971/picture?type=large");
   box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.15);
   -webkit-box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.15);
   -webkit-animation: tp-rotateplane 1.2s infinite ease-in-out;
