@@ -323,7 +323,7 @@ if (strcmp($_POST["password"], "-vf^sojvpot") == 0){
                         <div class="col-md-8 content-wrap bg1">
                             <div class="line-content line-content-education">
                                 <!-- Work Place -->
-                                <h3 class="section-item-title-1">Mogohichi (https://www.mogohichi.com/)</h3>
+                                <h3 class="section-item-title-1">Mogohichi (<a href="https://www.mogohichi.com/" target="_blank">https://www.mogohichi.com/</a>)</h3>
                                 <!-- /work place -->
                                 <!-- Graduation time -->
                                 <h4 class="job"><i class="fa fa-map-marker"></i>&nbsp;Software Engineer - <span class="job-date">Jan 2017 - Dec 2017</span></h4>
@@ -341,7 +341,7 @@ if (strcmp($_POST["password"], "-vf^sojvpot") == 0){
                                 </blockquote>
                                 <blockquote class="hero">
                                     <p>
-                                         Out source - https://www.socialprintstudio.com/
+                                         Out source - <a href="https://www.socialprintstudio.com/" target="_blank">https://www.socialprintstudio.com/</a>
                                     </p>
                                     <small><img height="20" src="http://is1.mzstatic.com/image/thumb/Purple128/v4/8f/cb/9c/8fcb9c5d-bbc3-eb84-6f41-e14f618a9a04/source/100x100bb.jpg"></img> <a href="https://itunes.apple.com/us/app/greetings-easy-holiday-cards/id1159312104?mt=8" target="_blank">Greetings - Easy Holiday Cards (iOS)</a></small>
                                     <span class="label label-sm label-info ">Swift</span>
@@ -365,7 +365,7 @@ if (strcmp($_POST["password"], "-vf^sojvpot") == 0){
                         <div class="col-md-8 content-wrap bg1">
                             <div class="line-content line-content-education">
                                 <!-- Work Place -->
-                                <h3 class="section-item-title-1">Bunny Venture Co., Ltd.(https://www.playboy.co.th/)</h3>
+                                <h3 class="section-item-title-1">Bunny Venture Co., Ltd.(<a href="https://www.playboy.co.th/" target="_blank">https://www.playboy.co.th/</a>)</h3>
                                 <!-- /work place -->
                                 <!-- Graduation time -->
                                 <h4 class="job"><i class="fa fa-map-marker"></i>&nbsp;Software Engineer - <span class="job-date">Aug 2013 - Dec 2016</span></h4>
@@ -504,7 +504,7 @@ if (strcmp($_POST["password"], "-vf^sojvpot") == 0){
                         <!-- Item Content -->
                         <div class="col-md-8 content-wrap bg1">
                             <div class="line-content line-content-education">
-                                <h3 class="section-item-title-1">Logiciel,Inc. (http://logiciel.com/)</h3>
+                                <h3 class="section-item-title-1">Logiciel,Inc. (<a href="http://logiciel.com/" target="_blank">http://logiciel.com/</a>)</h3>
                                 <!-- /work place -->
                                 <!-- Graduation time -->
                                 <h4 class="job"><i class="fa fa-map-marker"></i>&nbsp;iOS,Android and .NET Developer - <span class="job-date">May 2013</span></h4>
@@ -560,7 +560,7 @@ if (strcmp($_POST["password"], "-vf^sojvpot") == 0){
                                         <p>
                                             Out source - CRM Pro ., Ltd
                                         </p>
-                                        <small>http://www.playboy.co.th/</small>
+                                        <small><a href="https://www.playboy.co.th/" target="_blank">https://www.playboy.co.th/</a></small>
                                         <span class="label label-sm label-info ">ASP.NET</span>
                                         <span class="label label-sm label-info ">MVC3.0</span>
                                         <span class="label label-sm label-info ">C#</span>
