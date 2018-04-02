@@ -1242,7 +1242,7 @@
                         <!-- Item Content -->
                         <div class="col-md-8 content-wrap bg1">
                             <!-- Section title -->
-                            <h2 class="section-title">Interests</h2>
+                            <h2 class="section-title">Other</h2>
                             <!-- /Section title -->
                         </div>
                         <!-- /Item Content -->
@@ -1261,11 +1261,36 @@
                         <div class="col-md-8 content-wrap bg1">
                             <div class="line-content">
                                 <!-- Subtitle -->
-                                <h3 class="section-item-title-1">Art</h3>
+                                <h3 class="section-item-title-1">Crypto Currency</h3>
                                 <!-- /Subtitle -->
                                 <!-- content -->
-                                <p>Bonsai</p>
+                                <p>Mining and Trader</p>
                                 <!-- /Content -->
+                            </div>
+                        </div>
+                        <!-- /Item Content -->
+                        <!-- Margin Collum-->
+                        <div class="col-md-1 bg1 timeline-space full-height hidden-sm hidden-xs" style="height: 102px;"></div>
+                        <!-- /Margin Collum-->
+                    </div>
+                    <!-- /SECTION ITEM -->
+                     <!-- SECTION ITEM -->
+                     <div class="line row">
+                        <!-- Margin Collums (necessary for the timeline effect) -->
+                        <div class="col-md-1 bg1 timeline-space full-height hidden-sm hidden-xs" style="height: 102px;"></div>
+                        <div class="col-md-2 timeline-progress hidden-sm hidden-xs full-height timeline-point " style="height: 102px;"></div>
+                        <!-- /Margin Collums -->
+                        <!-- Item Content -->
+                        <div class="col-md-8 content-wrap bg1">
+                            <div class="line-content">
+                                <!-- Subtitle -->
+                                <h3 class="section-item-title-1">Game</h3>
+                                <!-- /Subtitle -->
+                                <p>Shooting , Strategy , Sport</p>
+                                <!-- content -->
+                                <p>- Fifa online , Dota , Ragnarok , Overwatch , PUBG  </p>
+                                <!-- /Content -->
+                                <p>- Far cry, Fallout , Sniper Elite , Sniper Ghost Warrior , Prototype , Commandos , Red Alert , Warcraft , Diablo , Etc.</p>
                             </div>
                         </div>
                         <!-- /Item Content -->
@@ -1287,7 +1312,7 @@
                                 <h3 class="section-item-title-1">Sport</h3>
                                 <!-- /Subtitle -->
                                 <!-- content -->
-                                <p>Running , Weight Training , Cycling , Badminton , Basketball</p>
+                                <p>Running , Weight Training , Cycling , Badminton , Basketball , Table Tennis</p>
                                 <!-- /Content -->
                             </div>
                         </div>
