@@ -1,9 +1,6 @@
 
 
-<?php 
-
-if (strcmp($_POST["password"], "-vf^sojvpot") == 0){ 
-?>
+<!-- //if (strcmp($_POST["password"], "-vf^sojvpot") == 0){  -->
      <!-- HTML here -->
 <div class="row" id="intro">
 
@@ -1449,9 +1446,3 @@ if (strcmp($_POST["password"], "-vf^sojvpot") == 0){
     </div>
 </div>
 <script src="js/main.js"></script>
-<?php } else {?>
-
-<script>
-     location.reload();
-</script>
-<?php }?>
