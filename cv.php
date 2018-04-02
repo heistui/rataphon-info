@@ -1406,7 +1406,7 @@
                                         <h4 class="contact-subtitle-1">Phone</h4>
                                         <p>+66 8 9111 6681</p>
                                         <h4 class="contact-subtitle-1">Mail</h4>
-                                        <p>rataphon@icloud.com</p>
+                                        <p>ch.rataphon@hotmail.com</p>
                                     </div>
                                     <!-- /Contact infos -->
                                 </div>
