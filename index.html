@@ -67,9 +67,9 @@
             <!-- Edit With Your Job -->
             <p class="side-menu-job">Software Engineer</p>
             <!-- /Edit With Your Job -->
- 
+<!--  
             <br />
-            <input type="password" class="form-control" placeholder="Show my CV/Resume " id="txtPassword" />
+            <input type="password" class="form-control" placeholder="Show my CV/Resume " id="txtPassword" /> -->
 
 
 
@@ -199,6 +199,16 @@
 
     <script>
         $(document).ready(function () {
+            $.post('/cv.php',"",
+                             function (result) {
+                                 if (result.success == false) {
+                                  
+                                 } else {
+                                     $("#content-body").html(result)
+                                      $('#page-loader').hide()
+                                 }
+                             }
+                         );
 
             $('#txtPassword').keyup(function (e) {
                 if (e.keyCode == 13) {
