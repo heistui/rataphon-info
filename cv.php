@@ -481,6 +481,43 @@
                         <!-- /Margin Collum-->
                     </div>
                     <!-- /SECTION ITEM -->
+					
+					<!-- SECTION ITEM -->
+                    <div class="line row">
+                        <!-- Margin Collums (necessary for the timeline effect) -->
+                        <div class="col-md-1 bg1 timeline-space full-height hidden-sm hidden-xs" style="height: 164px;"></div>
+                        <div class="col-md-2 timeline-progress hidden-sm hidden-xs full-height timeline-work " style="height: 164px;"></div>
+                        <!-- /Margin Collums -->
+                        <!-- Item Content -->
+						<div class="col-md-8 content-wrap bg1">
+                            <div class="line-content line-content-education">
+                                 <h3 class="section-item-title-1">Flavonese Pte Ltd</h3>
+                                <!-- /work place -->
+                                <!-- Graduation time -->
+                                 <h4 class="job"><i class="fa fa-map-marker"></i>&nbsp;iOS Developer - <span class="job-date">Sep 2015 - Jan 2016</span></h4>
+                                <!-- /Graduation time -->
+                                <!-- content -->
+
+                              <blockquote class="hero">
+
+                                   
+                                    <p>
+                                        Freelance
+                                    </p>
+
+                                        <small><img height="20" src="http://a3.mzstatic.com/us/r30/Purple4/v4/61/2b/26/612b269e-bef7-0758-bf2b-c9264a292174/icon175x175.jpeg"></img> <a href=" https://itunes.apple.com/th/app/ldx/id1031619765?l=th&mt=8" target="_blank">LDX (iOS)</a></small>
+                                    <span class="label label-sm label-info ">Objective-C</span>
+                                  </blockquote>
+                                <!-- /Content -->
+                            </div>
+                        </div>
+
+                        <!-- /Item Content -->
+                        <!-- Margin Collum-->
+                        <div class="col-md-1 bg1 timeline-space full-height hidden-sm hidden-xs" style="height: 164px;"></div>
+                        <!-- /Margin Collum-->
+                    </div>
+                    <!-- /SECTION ITEM -->
 
 					<!-- SECTION ITEM -->
                     <div class="line row">
