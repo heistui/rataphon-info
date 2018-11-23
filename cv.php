@@ -856,38 +856,6 @@
                <!-- /SECTION ITEM -->
             </section>
             <!-- ==>> /SECTION: WORK EXPERIENCE <<==== -->
-            <!-- ====>> SECTION: SKILLS <<====-->
-            <section class="timeline skills" id="skills">
-               <!-- VERTICAL MARGIN (necessary for the timeline effect) -->
-               <div class="line row timeline-margin">
-                  <div class="content-wrap">
-                     <div class="col-md-1 bg1 timeline-space full-height hidden-sm hidden-xs" style="height: 80px;"></div>
-                     <div class="col-md-2 timeline-progress hidden-sm hidden-xs full-height" style="height: 80px;"></div>
-                     <div class="col-md-9 bg1 full-height" style="height: 80px;"></div>
-                  </div>
-               </div>
-               <!-- /VERTICAL MARGIN -->
-               <!-- SECTION TITLE -->
-               <div class="line row">
-                  <!-- VERTICAL MARGIN (necessary for the timeline effect) -->
-                  <div class="col-md-1 bg1 timeline-space full-height hidden-sm hidden-xs" style="height: 70px;"></div>
-                  <div class="col-md-2 timeline-progress hidden-sm hidden-xs timeline-title full-height" style="height: 70px;"></div>
-                  <!-- /VERTICAL MARGIN (necessary for the timeline effect) -->
-                  <!-- Item Content -->
-                  <div class="col-md-8 content-wrap bg1">
-                     <!-- Section title -->
-                     <h2 class="section-title">Skills</h2>
-                     <!-- /Section title -->
-                  </div>
-                  <!-- /Item Content -->
-                  <!-- Margin Collum-->
-                  <div class="col-md-1 bg1 timeline-space full-height hidden-sm hidden-xs" style="height: 70px;"></div>
-                  <!-- /Margin Collum-->
-               </div>
-               <!-- /SECTION TITLE -->
-
-            </section>
-            <!-- ==>> /SECTION: SKILLS -->
             <!-- ====>> SECTION: INTERESTS <<====-->
             <section class="timeline" id="interests">
                <!-- VERTICAL MARGIN (necessary for the timeline effect) -->
