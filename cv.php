@@ -481,18 +481,15 @@
                         <!-- /Margin Collum-->
                     </div>
                     <!-- /SECTION ITEM -->
-      
 
-
-
-   <!-- SECTION ITEM -->
+					<!-- SECTION ITEM -->
                     <div class="line row">
                         <!-- Margin Collums (necessary for the timeline effect) -->
                         <div class="col-md-1 bg1 timeline-space full-height hidden-sm hidden-xs" style="height: 164px;"></div>
                         <div class="col-md-2 timeline-progress hidden-sm hidden-xs full-height timeline-work " style="height: 164px;"></div>
                         <!-- /Margin Collums -->
                         <!-- Item Content -->
-              <div class="col-md-8 content-wrap bg1">
+						<div class="col-md-8 content-wrap bg1">
                             <div class="line-content line-content-education">
                                 <h3 class="section-item-title-1">Thai Post</h3>
                                 <!-- /work place -->
