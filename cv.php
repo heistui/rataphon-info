@@ -310,6 +310,41 @@
                         <!-- /Margin Collum-->
                     </div>
                     <!-- /SECTION TITLE -->
+					<!-- SECTION ITEM -->
+                    <div class="line row">
+                        <!-- Margin Collums (necessary for the timeline effect) -->
+                        <div class="col-md-1 bg1 timeline-space full-height hidden-sm hidden-xs" style="height: 164px;"></div>
+                        <div class="col-md-2 timeline-progress hidden-sm hidden-xs full-height timeline-work " style="height: 164px;"></div>
+                        <!-- /Margin Collums -->
+                        <!-- Item Content -->
+                        <div class="col-md-8 content-wrap bg1">
+                            <div class="line-content line-content-education">
+                                <!-- Work Place -->
+                                <h3 class="section-item-title-1">O3 Labs Inc. (<a href="https://o3.network/" target="_blank">https://o3.network/</a>)</h3>
+                                <!-- /work place -->
+                                <!-- Graduation time -->
+                                <h4 class="job"><i class="fa fa-map-marker"></i>&nbsp;Developer - <span class="job-date">Jul 2018 - present</span></h4>
+                                <!-- /Graduation time -->
+                                <!-- content -->
+                                <blockquote class="hero">
+                                    <small>Backend Website, SDK, API, using O3 SDK(NEO blockchain)</small>  
+									<small>Trading SDK for iOS on https://switcheo.exchange</small>  
+                                    <span class="label label-sm label-info ">Golang</span>
+                                    <span class="label label-sm label-info ">Vue.js</span>
+                                    <span class="label label-sm label-info ">Postgres</span>
+                                    <span class="label label-sm label-info ">Android (java)</span>
+									<span class="label label-sm label-info ">iOS (Swift)</span>
+                                </blockquote>
+          
+                            </div>
+                        </div>
+
+                        <!-- /Item Content -->
+                        <!-- Margin Collum-->
+                        <div class="col-md-1 bg1 timeline-space full-height hidden-sm hidden-xs" style="height: 164px;"></div>
+                        <!-- /Margin Collum-->
+                    </div>
+                    <!-- /SECTION ITEM -->
                     <!-- SECTION ITEM -->
                     <div class="line row">
                         <!-- Margin Collums (necessary for the timeline effect) -->
