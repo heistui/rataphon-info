@@ -465,7 +465,7 @@
                   <div class="col-md-8 content-wrap bg1">
                      <div class="line-content line-content-education">
                         <h3 class="section-item-title-1">
-							Thai Post - บริษัท ไปรษณีย์ไทย จํากัด
+							Thai Post 
 						</h3>
                         <!-- /work place -->
                         <!-- Graduation time -->
@@ -474,7 +474,7 @@
                         <!-- content -->
                         <blockquote class="hero">
                            <p>
-                              Freelance
+                              Freelance - บริษัท ไปรษณีย์ไทย จํากัด
                            </p>
                            <small>Data migration from Oracle to SAP HANA</small>
                            <span class="label label-sm label-info ">Oracle</span>
