@@ -408,7 +408,7 @@
                         </blockquote>
                         <blockquote class="hero">
                            <p>
-                              Out source - Krungthai Card Public Company Limited (KTC)
+                              Out source - Krungthai Card Public Company Limited (KTC) - บริษัท บัตรกรุงไทย จำกัด (มหาชน)
                            </p>
                            <small>KTC Export E-statement data migration</small>
                            <span class="label label-sm label-info ">ASP.NET</span>
@@ -464,7 +464,9 @@
                   <!-- Item Content -->
                   <div class="col-md-8 content-wrap bg1">
                      <div class="line-content line-content-education">
-                        <h3 class="section-item-title-1">Thai Post</h3>
+                        <h3 class="section-item-title-1">
+							Thai Post - บริษัท ไปรษณีย์ไทย จํากัด
+						</h3>
                         <!-- /work place -->
                         <!-- Graduation time -->
                         <h4 class="job"><i class="fa fa-map-marker"></i>&nbsp;VB.NET Developer - <span class="job-date">- Dec 2015</span></h4>
@@ -624,7 +626,7 @@
                            </blockquote>
                            <blockquote class="hero">
                               <p>
-                                 Out source - Krungthai Card Public Company Limited (KTC)
+                                 Out source - Krungthai Card Public Company Limited (KTC) - บริษัท บัตรกรุงไทย จำกัด (มหาชน)
                               </p>
                               <small>Email Statement</small>
                               <small>Merchant Report</small>
@@ -662,7 +664,7 @@
                         <div class="job-description">
                            <blockquote class="hero">
                               <p>
-                                 Out source - IRPC co., ltd.
+                                 Out source - IRPC co., ltd. - บริษัทไออาร์พีซี จํากัด (มหาชน)
                               </p>
                               <small>House Booking Management System </small>
                               <span class="label label-sm label-info ">ASP.NET</span>
@@ -675,7 +677,7 @@
                            </blockquote>
                            <blockquote class="hero">
                               <p>
-                                 Out source - Nida University
+                                 Out source - Nida University - มหาวิทยาลัยนิด้า
                               </p>
                               <small>Digital Library (Large Wall) </small>
                               <span class="label label-sm label-info ">Java</span>
@@ -687,7 +689,7 @@
                            </blockquote>
                            <blockquote class="hero">
                               <p>
-                                 Out source - Ministry Of Defense
+                                 Out source - Ministry Of Defense - สำนักงานตรวจสอบภายใน กระทรวงกลาโหม
                               </p>
                               <small>Internal Audit System</small>
                               <span class="label label-sm label-info ">ASP.NET</span>
@@ -727,7 +729,7 @@
                         <div class="job-description">
                            <blockquote class="hero">
                               <p>
-                                 Out source - Office of Atoms for Peace
+                                 Out source - Office of Atoms for Peace - สำนักงานปรมาณูเพื่อสันติ
                               </p>
                               <small>Atom Management System (phase II)</small>
                               <span class="label label-sm label-info ">ASP.NET</span>
@@ -739,7 +741,7 @@
                            </blockquote>
                            <blockquote class="hero">
                               <p>
-                                 Out source - IRPC co., ltd.
+                                 Out source - IRPC co., ltd. - บริษัทไออาร์พีซี จํากัด (มหาชน)
                               </p>
                               <small>Canteen Booking Management System </small>
                               <span class="label label-sm label-info ">ASP.NET</span>
@@ -791,7 +793,7 @@
                            </blockquote>
                            <blockquote class="hero">
                               <p>
-                                 Out source - IRPC co., ltd.
+                                 Out source - IRPC co., ltd. - บริษัทไออาร์พีซี จํากัด (มหาชน)
                               </p>
                               <small>Map API (Integrate with Document Management System)</small>
                               <span class="label label-sm label-info ">Adobe Flash</span>
@@ -799,7 +801,7 @@
                            </blockquote>
                            <blockquote class="hero">
                               <p>
-                                 Out source - Thailand Parliament
+                                 Out source - Thailand Parliament - รัฐสภาไทย
                               </p>
                               <small>Web Gallery</small>
                               <span class="label label-sm label-info ">Adobe Flash</span>
