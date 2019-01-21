@@ -316,11 +316,14 @@
                         <blockquote class="hero">
                            <small>Backend Website, SDK, API, using O3 SDK(NEO blockchain)</small>  
                            <small>Trading SDK for iOS on https://switcheo.exchange</small>  
+						   <small>neo-cli plugins</small>  
                            <span class="label label-sm label-info ">Golang</span>
                            <span class="label label-sm label-info ">Vue.js</span>
                            <span class="label label-sm label-info ">Postgres</span>
                            <span class="label label-sm label-info ">Android (java)</span>
                            <span class="label label-sm label-info ">iOS (Swift)</span>
+						   <span class="label label-sm label-info ">C#</span>
+						   <span class="label label-sm label-info ">LEVELDB</span>
                         </blockquote>
                      </div>
                   </div>
