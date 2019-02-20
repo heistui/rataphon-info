@@ -310,7 +310,7 @@
                         <h3 class="section-item-title-1">O3 Labs Inc. (<a href="https://o3.network/" target="_blank">https://o3.network/</a>)</h3>
                         <!-- /work place -->
                         <!-- Graduation time -->
-                        <h4 class="job"><i class="fa fa-map-marker"></i>&nbsp;Developer - <span class="job-date">Jul 2018 - present</span></h4>
+                        <h4 class="job"><i class="fa fa-map-marker"></i>&nbsp;Software Engineer - <span class="job-date">Jul 2018 - present</span></h4>
                         <!-- /Graduation time -->
                         <!-- content -->
                         <blockquote class="hero">
