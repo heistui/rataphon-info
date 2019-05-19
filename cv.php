@@ -32,7 +32,8 @@
             <div class="profile-pic">
                <div class="profile-border">
                   <!-- Put your picture here ( 308px by 308px for retina display)-->
-                  <img src="https://graph.facebook.com/1143229079037971/picture?type=large" alt="">
+                   <!--<img src="https://graph.facebook.com/1143229079037971/picture?type=large" alt="">-->
+                  <img src="https://scontent.fbkk12-1.fna.fbcdn.net/v/t1.0-9/51457103_2515771391783726_6021137196545736704_n.jpg?_nc_cat=106&_nc_ht=scontent.fbkk12-1.fna&oh=02e1594e1041dec4d499cbf21e9ba219&oe=5D68CC07" alt="">
                   <!-- /Put your picture here -->
                </div>
             </div>
