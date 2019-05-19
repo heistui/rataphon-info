@@ -361,7 +361,7 @@
                         </blockquote>
                         <blockquote class="hero">
                            <p>
-                              Out source - <a href="https://www.socialprintstudio.com/" target="_blank">https://www.socialprintstudio.com/</a>
+                               <a href="https://www.socialprintstudio.com/" target="_blank">https://www.socialprintstudio.com/</a>
                            </p>
                            <small><img height="20" src="http://is1.mzstatic.com/image/thumb/Purple128/v4/8f/cb/9c/8fcb9c5d-bbc3-eb84-6f41-e14f618a9a04/source/100x100bb.jpg"></img> <a href="https://itunes.apple.com/us/app/greetings-easy-holiday-cards/id1159312104?mt=8" target="_blank">Greetings - Easy Holiday Cards (iOS)</a></small>
                            <span class="label label-sm label-info ">Swift</span>
@@ -411,7 +411,7 @@
                         </blockquote>
                         <blockquote class="hero">
                            <p>
-                              Out source - Krungthai Card Public Company Limited (KTC) - บริษัท บัตรกรุงไทย จำกัด (มหาชน)
+                               Krungthai Card Public Company Limited (KTC) - บริษัท บัตรกรุงไทย จำกัด (มหาชน)
                            </p>
                            <small>KTC Export E-statement data migration</small>
                            <span class="label label-sm label-info ">ASP.NET</span>
@@ -553,7 +553,7 @@
                         <div class="job-description">
                            <blockquote class="hero">
                               <p>
-                                 Out source - CRM Pro ., Ltd
+                                  CRM Pro ., Ltd
                               </p>
                               <small><a href="https://www.playboy.co.th/" target="_blank">https://www.playboy.co.th/</a></small>
                               <span class="label label-sm label-info ">ASP.NET</span>
@@ -629,7 +629,7 @@
                            </blockquote>
                            <blockquote class="hero">
                               <p>
-                                 Out source - Krungthai Card Public Company Limited (KTC) - บริษัท บัตรกรุงไทย จำกัด (มหาชน)
+                                  Krungthai Card Public Company Limited (KTC) - บริษัท บัตรกรุงไทย จำกัด (มหาชน)
                               </p>
                               <small>Email Statement</small>
                               <small>Merchant Report</small>
@@ -667,7 +667,7 @@
                         <div class="job-description">
                            <blockquote class="hero">
                               <p>
-                                 Out source - IRPC co., ltd. - บริษัทไออาร์พีซี จํากัด (มหาชน)
+                                  IRPC co., ltd. - บริษัทไออาร์พีซี จํากัด (มหาชน)
                               </p>
                               <small>House Booking Management System </small>
                               <span class="label label-sm label-info ">ASP.NET</span>
@@ -680,7 +680,7 @@
                            </blockquote>
                            <blockquote class="hero">
                               <p>
-                                 Out source - Nida University - มหาวิทยาลัยนิด้า
+                                  Nida University - มหาวิทยาลัยนิด้า
                               </p>
                               <small>Digital Library (Large Wall) </small>
                               <span class="label label-sm label-info ">Java</span>
@@ -692,7 +692,7 @@
                            </blockquote>
                            <blockquote class="hero">
                               <p>
-                                 Out source - Ministry Of Defense - สำนักงานตรวจสอบภายใน กระทรวงกลาโหม
+                                  Ministry Of Defense - สำนักงานตรวจสอบภายใน กระทรวงกลาโหม
                               </p>
                               <small>Internal Audit System</small>
                               <span class="label label-sm label-info ">ASP.NET</span>
@@ -732,7 +732,7 @@
                         <div class="job-description">
                            <blockquote class="hero">
                               <p>
-                                 Out source - Office of Atoms for Peace - สำนักงานปรมาณูเพื่อสันติ
+                                  Office of Atoms for Peace - สำนักงานปรมาณูเพื่อสันติ
                               </p>
                               <small>Atom Management System (phase II)</small>
                               <span class="label label-sm label-info ">ASP.NET</span>
@@ -744,7 +744,7 @@
                            </blockquote>
                            <blockquote class="hero">
                               <p>
-                                 Out source - IRPC co., ltd. - บริษัทไออาร์พีซี จํากัด (มหาชน)
+                                  IRPC co., ltd. - บริษัทไออาร์พีซี จํากัด (มหาชน)
                               </p>
                               <small>Canteen Booking Management System </small>
                               <span class="label label-sm label-info ">ASP.NET</span>
@@ -796,7 +796,7 @@
                            </blockquote>
                            <blockquote class="hero">
                               <p>
-                                 Out source - IRPC co., ltd. - บริษัทไออาร์พีซี จํากัด (มหาชน)
+                                  IRPC co., ltd. - บริษัทไออาร์พีซี จํากัด (มหาชน)
                               </p>
                               <small>Map API (Integrate with Document Management System)</small>
                               <span class="label label-sm label-info ">Adobe Flash</span>
@@ -804,7 +804,7 @@
                            </blockquote>
                            <blockquote class="hero">
                               <p>
-                                 Out source - Thailand Parliament - รัฐสภาไทย
+                                  Thailand Parliament - รัฐสภาไทย
                               </p>
                               <small>Web Gallery</small>
                               <span class="label label-sm label-info ">Adobe Flash</span>
@@ -839,7 +839,7 @@
                         <div class="job-description">
                            <blockquote class="hero">
                               <p>
-                                 Out source - The Sanctuary Art of Wedding & Spa
+                                  The Sanctuary Art of Wedding & Spa
                               </p>
                               <small>Spa management system</small>
                               <span class="label label-sm label-info ">ASP.NET</span>
