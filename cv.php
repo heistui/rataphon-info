@@ -446,7 +446,7 @@
                            <p>
                               Freelance
                            </p>
-                           <small><img height="20" src="http://a3.mzstatic.com/us/r30/Purple4/v4/61/2b/26/612b269e-bef7-0758-bf2b-c9264a292174/icon175x175.jpeg"></img> <a href=" https://itunes.apple.com/th/app/ldx/id1031619765?l=th&mt=8" target="_blank">LDX (iOS)</a></small>
+                           <small><img height="20" src="https://is5-ssl.mzstatic.com/image/thumb/Purple122/v4/bc/b5/b0/bcb5b024-94a8-1b50-c19e-7460abf24836/mzl.odcduefr.png/230x0w.jpg"></img> <a href="https://itunes.apple.com/th/app/ldx/id1031619765?l=th&mt=8" target="_blank">LDX (iOS)</a></small>
                            <span class="label label-sm label-info ">Objective-C</span>
                         </blockquote>
                         <!-- /Content -->
